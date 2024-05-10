@@ -11,8 +11,11 @@
     - [Avantages](#avantages)
     - [Inconvénients](#inconvénients)
     - [Fonctionnalités courantes](#fonctionnalités-courantes)
-  - [Contexte des données fournies](#contexte-des-données-fournies)
-  - [Problématique étudiée](#problématique-étudiée)
+  - [Contexte](#contexte)
+    - [Données](#données)
+      - [shipman-confirmed-victims.csv](#shipman-confirmed-victimscsv)
+      - [shipman-times-comparison.csv](#shipman-times-comparisoncsv)
+    - [Problématique](#problématique)
   - [Analyse des données (avec des captures d'écran des visualisations)](#analyse-des-données-avec-des-captures-décran-des-visualisations)
   - [conclusion à la problématique](#conclusion-à-la-problématique)
 
@@ -58,10 +61,42 @@ Un dashboard est une représentation visuelle des informations importantes sur u
 - Intégration de données: Connexion à différentes sources de données.
 - Tableaux de bord interactifs: Possibilité de creuser les données.
 
+## Contexte
 
-## Contexte des données fournies
+### Données
+Les données fournies sont réparties en deux fichiers CSV (**C**omma **S**eparated **V**alues).
+C'est un type de fichier texte dans lequel les différentes colonnes sont séparées par des virgules.
 
-## Problématique étudiée
+#### shipman-confirmed-victims.csv
+Données concernant les victimes du Dr Harold Shipman
+- `DateofDeath` : Date de l'assassinat
+- `Name` : Nom de la victime
+- `PlaceofDeath` : Lieu de la mort
+  - **"Hospital"** : Mort a l'hôpital
+  - **"Nursing home"** : Maison de repos
+  - **"Own home"** : Domicile de la victime
+  - **"Residential home"** : Foyer résidentiel
+  - **"Shipman's surgery"** : Cabinet du Dr Shipman
+- `Decision` : Verdict
+  - **"Conviction"** : Reconnu coupable
+  - **"Unlawful killing"** : Non condamné
+- `yearOfDeath` : Année de l'assassinat
+- `gender` : Genre en valeur numérique
+  - **0** : Femme
+  - **1** : Homme
+- `FractionalDeathYear` : Année avec une virgule pour la précision (⚠️ **COLONNE FAUSSE** ⚠️ -> Ne correspond pas a la `DateofDeath`)
+- `ageBracket` : Tranche d'âge de 5 ans
+- `gender2` : Genre des victimes
+  - **"Women"** : Femme
+  - **"Men"** : Homme
+
+#### shipman-times-comparison.csv
+Données moyennes de l'heure à laquelle les patients d'Harold Shipman sont décédés, comparée à l'heure à laquelle les patients d'autres médecins généralistes locaux sont décédés.
+- `Hour` : Heure de la mort (de 0 à 23)
+- `Shipman` : Moyenne du nombre de décès des patients du Dr Shipman
+- `Comparison` : Moyenne du nombre de décès d'autres médecins locaux
+
+### Problématique
 
 ## Analyse des données (avec des captures d'écran des visualisations)
 
