@@ -2,12 +2,12 @@
 Analyse des données des meurtres du Dr Shipman en utilisant PowerBI
 
 
-# Veille Power BI
+## Veille Power BI
 
-# Contexte des données fournies
+## Contexte des données fournies
 
-# problématique étudiée
+## problématique étudiée
 
-# Analyse des données (avec des captures d'écran des visualisations)
+## Analyse des données (avec des captures d'écran des visualisations)
 
-# conclusion à la problématique
+## conclusion à la problématique
