@@ -26,7 +26,7 @@
       - [Nombre de victimes par âge](#nombre-de-victimes-par-âge)
       - [Nombre de victimes par lieu du décès](#nombre-de-victimes-par-lieu-du-décès)
       - [Comparaison des heures de décès des patients du Dr Shipman avec d'autres médecins](#comparaison-des-heures-de-décès-des-patients-du-dr-shipman-avec-dautres-médecins)
-  - [conclusion à la problématique](#conclusion-à-la-problématique)
+  - [Conclusion à la problématique](#conclusion-à-la-problématique)
 
 ## L'équipe
 3 étudiants en 1ère année de Bachelor IT spécialité Intelligence Artificielle à [La Plateforme_](https://laplateforme.io/) à Marseille
@@ -169,4 +169,12 @@ TODO : ajouter dashboard
 ![Comparaison des morts de Shipman et d'autres médecins](images/graphs/comparaison_shipman_autres.png)
 *On voit clairement qu'entre 13h et 16h il y a plus de patients morts du Dr Shipman que des autres médecins*
   
-## conclusion à la problématique
+## Conclusion à la problématique
+
+Le Dr Harold Shipman a tué, sur une période d'un quart de siècle (de 1975 à 1998 jusqu'à son arrestation en 1999), **au moins 215 personnes** en toute impunité. En effet, il a été **reconnu coupable seulemnt pour 15 victimes** (6.98%), qu'il a tué entre 1995 et 1998.
+
+Ses victimes étaient ses propres patients, **majoritairement des femmes** (82.79%) **agées** (surtout entre 65 et 90 ans) qu'il empoisonaient avec de l'héroine, de l'alcool, et d'autres substances, majoritairement **à leur domicile** (94.88%) **en début d'après-midi** (moyenne des décès des patients du Dr Shipmann plus élevées que la moyenne entre 13h et 16h)
+
+La profession et le mode opératoire du docteur Shipman lui ont permis de récidiver sur une periode extrêmement longue et sur un nombre de cas très élevé.<br>
+Il n’est pas évident de concevoir qu’un médecin puisse assassiner ses propres patients.<br>
+De plus, l’âge élevé des victimes - souvent au-delà de l’éspérance de vie moyenne de leur génération - à participer à endormir d'éventuels soupçons. Ce fait divers pose la question de l’observation et de la surveillance des professions médicales.
