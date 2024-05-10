@@ -4,12 +4,10 @@
 
 - [Power BI](#power-bi)
 - [Dashboard](#dashboard)
-- [Inconvénient](#inconvénient)
-- [Avantage](#avantage)
-- [Fonctionnalité](#fonctionnalité)
-- [Source disponible](#source-disponible)
-- [Différentes visualisations](#différentes-visualisations)
-
+- [Contexte des données fournies](#Contexte des données fournies)
+- [Problématique étudiée](#Problématique étudiée)
+- [Analyse des données](#Analyse des données)
+- [Conclusion à la problématique](#Conclusion à la problématique)
 
 ## Power BI
 
@@ -49,7 +47,7 @@ Tableaux de bord interactifs: Possibilité de creuser les données.
 
 ## Contexte des données fournies
 
-## problématique étudiée
+## Problématique étudiée
 
 ## Analyse des données (avec des captures d'écran des visualisations)
 
