@@ -18,6 +18,14 @@
       - [shipman-times-comparison.csv](#shipman-times-comparisoncsv)
     - [Problématique](#problématique)
   - [Analyse des données](#analyse-des-données)
+    - [Dashboard](#dashboard-1)
+    - [Quelques graphiques](#quelques-graphiques)
+      - [Nombre de victimes par année, séparés par verdict](#nombre-de-victimes-par-année-séparés-par-verdict)
+      - [Proportion des verdicts](#proportion-des-verdicts)
+      - [Proportion des genres des victimes](#proportion-des-genres-des-victimes)
+      - [Nombre de victimes par âge](#nombre-de-victimes-par-âge)
+      - [Nombre de victimes par lieu du décès](#nombre-de-victimes-par-lieu-du-décès)
+      - [Comparaison des heures de décès des patients du Dr Shipman avec d'autres médecins](#comparaison-des-heures-de-décès-des-patients-du-dr-shipman-avec-dautres-médecins)
   - [conclusion à la problématique](#conclusion-à-la-problématique)
 
 ## L'équipe
@@ -131,6 +139,34 @@ Nous devons analyser les données des 2 datasets fournis pour répondre aux ques
 
 ## Analyse des données
 
-TODO : Ajouter visualisations
+### Dashboard
 
+TODO : ajouter dashboard
+
+### Quelques graphiques
+
+#### Nombre de victimes par année, séparés par verdict
+![Nombre de victimes par année et verdict](images/graphs/nb_annee_verdict.png)
+*Le dr Shipman a tué entre 1975 et 1998. Il a été condamné seulement pour des vicimes entre 1995 et 1998*
+  
+#### Proportion des verdicts
+![Nombre de victimes par verdict](images/graphs/nb_verdict.png)
+*Il a été comdamné seulement pour 15 victimes (6.98%)*
+
+#### Proportion des genres des victimes
+![Nombre de victimes par genre](images/graphs/nb_genre.png)
+*Il a tué majoritairement des femmes (82.79%)*
+
+#### Nombre de victimes par âge
+![Nombre de victimes par age](images/graphs/nb_age.png)
+*La majorité des victimes ont entre 65 et 90 ans*
+
+#### Nombre de victimes par lieu du décès
+![Nombre de victimes par lieu de mort](images/graphs/nb_lieu.png)
+*La majorité des victimes sont mortes a leur domicile (94.88%)*
+
+#### Comparaison des heures de décès des patients du Dr Shipman avec d'autres médecins
+![Comparaison des morts de Shipman et d'autres médecins](images/graphs/comparaison_shipman_autres.png)
+*On voit clairement qu'entre 13h et 16h il y a plus de patients morts du Dr Shipman que des autres médecins*
+  
 ## conclusion à la problématique
