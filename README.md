@@ -4,6 +4,7 @@
 
 - [Analyse des données des meurtres du Dr Shipman en utilisant PowerBI](#analyse-des-données-des-meurtres-du-dr-shipman-en-utilisant-powerbi)
   - [Table des matières](#table-des-matières)
+  - [L'équipe](#léquipe)
   - [Power BI](#power-bi)
     - [Fonctionnalités](#fonctionnalités)
     - [Prix](#prix)
@@ -16,8 +17,33 @@
       - [shipman-confirmed-victims.csv](#shipman-confirmed-victimscsv)
       - [shipman-times-comparison.csv](#shipman-times-comparisoncsv)
     - [Problématique](#problématique)
-  - [Analyse des données (avec des captures d'écran des visualisations)](#analyse-des-données-avec-des-captures-décran-des-visualisations)
+  - [Analyse des données](#analyse-des-données)
   - [conclusion à la problématique](#conclusion-à-la-problématique)
+
+## L'équipe
+3 étudiants en 1ère année de Bachelor IT spécialité Intelligence Artificielle à [La Plateforme_](https://laplateforme.io/) à Marseille
+- Bruno Coulet
+  <a href="https://www.linkedin.com/in/bruno-coulet/">
+    <img src="images/logos/linkedin.png" width=25>
+  </a>
+  <a href="https://github.com/bruno-coulet">
+    <img src="images/logos/github.png" width=25>
+  </a>
+
+- Ines Lorquet
+  <a href="https://www.linkedin.com/in/ines-lorquet-35b90128b/">
+    <img src="images/logos/linkedin.png" width=25>
+  </a>
+  <a href="https://github.com/ines-lorquet">
+    <img src="images/logos/github.png" width=25>
+  </a>
+- Christian Aucane
+  <a href="https://www.linkedin.com/in/christian-aucane/">
+    <img src="images/logos/linkedin.png" width=25>
+  </a>
+  <a href="https://github.com/christian-aucane">
+    <img src="images/logos/github.png" width=25>
+  </a>
 
 ## Power BI
 
@@ -103,7 +129,7 @@ Nous devons analyser les données des 2 datasets fournis pour répondre aux ques
 - Quels types de personnes a-t-il assassinées?
 - Quand sont-elles mortes ? 
 
-## Analyse des données (avec des captures d'écran des visualisations)
+## Analyse des données
 
 TODO : Ajouter visualisations
 
