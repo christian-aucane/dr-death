@@ -1,9 +1,9 @@
 # Analyse des données des meurtres du Dr Shipman en utilisant PowerBI
 
-## Table des matières de la Veille
+## Table des matières
 
 - [Analyse des données des meurtres du Dr Shipman en utilisant PowerBI](#analyse-des-données-des-meurtres-du-dr-shipman-en-utilisant-powerbi)
-  - [Table des matières de la Veille](#table-des-matières-de-la-veille)
+  - [Table des matières](#table-des-matières)
   - [Power BI](#power-bi)
     - [Fonctionnalités](#fonctionnalités)
     - [Prix](#prix)
@@ -25,19 +25,19 @@ Power BI Desktop est un outil de visualisation de données puissant qui permet d
 
 Voici quelques informations importantes à propos de Power BI:
 ### Fonctionnalités
-  - Connection en toute sécurité à des centaines de sources de données (locales et cloud).
-  - Transformez et combinez des données provenant de diverses sources.
-  - Étendez vos modèles de données à l’aide de formules DAX.
-  - Choisissez parmi plus de 100 visuels de données tranchants (ou créez les vôtres).
-  - Explorez en profondeur les données pour trouver des cohérences et tirer des enseignements.
-  - Personnalisez la conception avec des outils de mise en forme et des thèmes intuitifs.
-  - Créez des rapports mobiles pour les utilisateurs itinérants.
-  - Partagez l’analyse visuelle avec votre équipe en publiant sur le service web Power BI.
+  - Connecter en toute sécurité à des centaines de sources de données (locales et cloud).
+  - Transformer et combiner des données provenant de diverses sources.
+  - Étendre des modèles de données à l’aide de formules DAX.
+  - Choisir parmi plus de 100 visuels de données (seulement 42 pour la version gratuite) et créer ses propres graphiques.
+  - Explorer en profondeur les données pour trouver des cohérences et tirer des enseignements.
+  - Personnaliser la conception avec des outils de mise en forme et des thèmes intuitifs.
+  - Créer des rapports mobiles pour les utilisateurs itinérants.
+  - Partager l’analyse visuelle avec votre équipe en publiant sur le service web Power BI.
 ### Prix
-  - Gratuit
-  - Power BI Pro : 8.4.€ / utilisateur / mois
-  - Microsoft 365 E5 : 56€ / utilisateur / mois
-  - Microsoft 365 Entreprise E5 : 34.40€ / utilisateur / mois
+  - **Power BI Desktop** : Gratuit
+  - **Power BI Pro** : 8.4.€ / utilisateur / mois
+  - **Microsoft 365 E5** : 56€ / utilisateur / mois
+  - **Microsoft 365 Entreprise E5** : 34.40€ / utilisateur / mois
 
 ## Dashboard
 
@@ -98,6 +98,13 @@ Données moyennes de l'heure à laquelle les patients d'Harold Shipman sont déc
 
 ### Problématique
 
+Nous devons analyser les données des 2 datasets fournis pour répondre aux question suivante :
+
+- Quels types de personnes a-t-il assassinées?
+- Quand sont-elles mortes ? 
+
 ## Analyse des données (avec des captures d'écran des visualisations)
+
+TODO : Ajouter visualisations
 
 ## conclusion à la problématique
