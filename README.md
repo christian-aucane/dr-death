@@ -171,7 +171,7 @@ TODO : ajouter dashboard
   
 ## Conclusion à la problématique
 
-Le Dr Harold Shipman a tué, sur une période d'un quart de siècle (de 1975 à 1998 jusqu'à son arrestation en 1999), **au moins 215 personnes** en toute impunité. En effet, il a été **reconnu coupable seulemnt pour 15 victimes** (6.98%), qu'il a tué entre 1995 et 1998.
+Le Dr Harold Shipman a tué, sur une période d'un quart de siècle (de 1975 à 1998 jusqu'à son arrestation en 1999), **au moins 215 personnes** en toute impunité. En effet, il a été **reconnu coupable seulement pour 15 victimes** (6.98%), qu'il a tué entre 1995 et 1998.
 
 Ses victimes étaient ses propres patients, **majoritairement des femmes** (82.79%) **agées** (surtout entre 65 et 90 ans) qu'il empoisonaient avec de l'héroine, de l'alcool, et d'autres substances, majoritairement **à leur domicile** (94.88%) **en début d'après-midi** (moyenne des décès des patients du Dr Shipmann plus élevées que la moyenne entre 13h et 16h)
 
